@@ -1,0 +1,17 @@
+.headi{
+    
+    font-size: 40px;
+    color:white;
+    opacity: 0.6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 140px;
+}
+ 
+.container2{
+    margin: 10px;
+    padding-top: 20px;
+    height: 100px;
+}
+

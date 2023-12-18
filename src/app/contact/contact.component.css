@@ -1,0 +1,61 @@
+
+.bo{
+ background-image:url("https://media.istockphoto.com/id/1017900834/photo/houseboats-on-the-backwaters-of-kerala-in-alappuzha.jpg?s=612x612&w=0&k=20&c=4PV5DImAWxw0I218zHEQJBoGdO5RPhnlrGrlW86mgB8=");
+ background-size: cover;
+ height: 900px;
+
+}
+.body{
+    background-image: url("https://images.unsplash.com/photo-1593693411515-c20261bcad6e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8a2VyYWxhJTIwdG91cmlzbXxlbnwwfHwwfHx8MA%3D%3D");
+    background-size: cover;
+    height: 1000px;
+    width: 900px;
+    background-repeat: no-repeat;
+  
+  
+}
+
+.pi{
+    padding-top: 150px;
+    margin: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.box{
+    margin:40px;
+    padding-left: 10px;
+    padding-top: 30px;
+    border-width:3px; 
+    border-style: ridge;
+     width: 600px;
+     height: 350px;
+
+
+
+
+}
+.loc{
+    padding-top: 60px;
+}
+
+
+.bx{
+    margin:40px;
+    padding-left: 10px;
+    padding-top: 30px;
+    border-width:2px; 
+    border-style: ridge;
+    border-color: brown;
+    width: 400px;
+  height: 200px;
+  align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+
+
+}
